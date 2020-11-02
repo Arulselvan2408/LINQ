@@ -1,0 +1,7 @@
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\bin\Debug\LinqwithArrays.exe.config
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\bin\Debug\LinqwithArrays.exe
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\bin\Debug\LinqwithArrays.pdb
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\obj\Debug\LinqwithArrays.csprojAssemblyReference.cache
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\obj\Debug\LinqwithArrays.csproj.CoreCompileInputs.cache
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\obj\Debug\LinqwithArrays.exe
+C:\Users\SELVA\OneDrive\Desktop\Arul\C#\Day9\LINQEG\LinqwithArrays\obj\Debug\LinqwithArrays.pdb

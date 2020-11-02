@@ -16,6 +16,7 @@ namespace LinqwithArrays
         public void Orgname()
         {
             Console.WriteLine("LTI");
+            Console.WriteLine("Larsen and tourbo information technology");
         }
         public void Location()
         {
